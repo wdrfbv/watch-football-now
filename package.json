@@ -46,7 +46,7 @@
 		"serve": "gatsby serve",
 		"test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\"",
 		"deploy": "gatsby build --prefix-paths && gh-pages -d public",
-		"burge": "gatsby build && surge public/ footballvideos.xyz"
+		"burge": "gatsby build && surge public/ footballvideos.surge.sh"
 	},
 	"repository": {
 		"type": "git",
